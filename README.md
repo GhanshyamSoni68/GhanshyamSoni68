@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- # 👋 Hi, I'm [Your Name] -->
-# 👨💻 [Your Name]  
+# 👨💻 Ghanshyam Soni  
 **`Full Stack Developer | Cross-Platform Solutions Architect`**  
 
 ⚡ **Value Driver**  
