@@ -1,69 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!-- # 👋 Hi, I'm [Your Name] -->
-# 👨💻 Ghanshyam Soni  
-**`Full Stack Developer | Cross-Platform Solutions Architect`**  
+# Ghanshyam Soni
 
-⚡ **Value Driver**  
-Building performant solutions across web, mobile & cloud • 5+ years full-stack excellence  
+### Software Engineer · Full Stack · Applied AI
 
-[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ghanshyamsoni)
-[![Email](https://img.shields.io/badge/-Reach%20Out%20via%20Email-red?style=flat&logo=gmail)](mailto:Ghanshyamsoni682@email.com)
+**Software that ships. Systems that learn.**
 
-## 🛠️ Technical Toolkit
+[![Portfolio](https://img.shields.io/badge/Portfolio-2357FF?style=for-the-badge&logo=safari&logoColor=white)](https://ghanshyamsoni.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanshyamsoni)
+[![Email](https://img.shields.io/badge/Email-F3F0E8?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:contact@ghanshyamsoni.dev)
 
-**▰▰▰▰▰▰▰▰▰ 100%**  
+Toronto, Canada · Open to software engineering and applied AI opportunities
 
-**Frontend Foundation**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+</div>
 
-**Backend Expertise**  
-![.NET](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?logo=.net)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
+---
 
-**Database Mastery**  
-![SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+## What I build
 
-**Mobile & Cross-Platform**  
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android)
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple)
+I’m a software engineer with **5+ years of experience** turning operational complexity into reliable software. My foundation is full-stack engineering—data models, APIs, business workflows, interfaces, deployment, and production support.
 
-## 🏗️ Key Implementations
+Lately, I’ve been adding a second layer: **applied AI and machine learning** that helps people find answers, automate decisions, and work with complex information more effectively.
 
-**SFI Group Ltd** | *Full Stack Developer*  
-`📍 2023-Present`  
-→ Engineered hybrid mobile apps (React Native/Android/iOS)  
-→ Modernized legacy laravel systems to Latest Laravel version  
-→ Technical lead for Backend System
+```text
+Production systems  →  Full-stack product engineering  →  Applied AI
+```
 
-**Enlacecode** | *Backend Specialist*  
-`📍 2023 (7 mos)`  
-→ Built PHP microservices for enterprise solutions  
-→ Developed Hospital management systems   
-→ Integrated Third Party APIs with existing sytem
+### A few outcomes
 
+- Improved application performance by **more than 25%** through code optimization.
+- Reduced SQL query turnaround time by approximately **30%**.
+- Built operations software spanning planning, scheduling, payroll, invoicing, inventory, and warehouse workflows.
+- Earned a **Top-5 finish in AWS DeepRacer** using reinforcement learning on SageMaker.
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**.
 
-**iWorld Software** | *Full Stack Engineer*  
-`📍 2020-2023`  
-→ Architected .NET MVC SaaS platforms  
-→ Created Android-native modules for legacy systems  
-→ Migrated desptop based .net applicaiton to web based
+---
 
-## 🎯 Current Engagements
-- Building unified mobile experiences (React Native → Android/iOS)
-- Optimizing MERN stack performance patterns
-- Enterprise-grade Spring Boot microservices
-- Headless WordPress architectures
+## Selected work
 
-## 📬 Collaboration Channels
-[![Portfolio](https://img.shields.io/badge/🚀-Portfolio_Blog-2B2D42?style=for-the-badge)](https://ghanshyamsoni.com)
-[![Calendly](https://img.shields.io/badge/-Schedule_Chat-00A2FF?style=flat&logo=googlecalendar)](https://calendly.com/ghanshyamsoni)
+### Enterprise Operations Platform
+
+An end-to-end platform connecting quoting, planning, scheduling, payroll, invoicing, inventory, and warehouse operations for real teams.
+
+`Laravel` `PHP` `MySQL` `JavaScript` `REST APIs` `Docker`
+
+### Timewise
+
+A location-aware workforce application with GPS geofencing, asynchronous event processing, and an administration dashboard.
+
+`React Native` `Laravel` `Vue` `Queues` `Geofencing`
+
+### AWS DeepRacer
+
+An autonomous racing model trained with reinforcement learning on AWS SageMaker. Reward shaping and hyperparameter iteration led to a Top-5 competition finish.
+
+`Python` `AWS SageMaker` `Reinforcement Learning` `Reward Shaping`
+
+---
+
+## Concepts I’m building next
+
+> These are planned builds, included to show the problems I want to explore—not completed projects.
+
+| Concept | What it explores | Intended stack |
+|---|---|---|
+| **FocusLoop** | A learning-first alternative to endless short-form scrolling, with recall prompts and local/offline AI support. | Expo, React Native, TypeScript, SQLite, local LLMs |
+| **OpsLens AI** | A cited operations assistant that searches job records, schedules, inventory, and reports using natural language. | Laravel, PostgreSQL, pgvector, RAG, LLM APIs |
+| **Local Dev Chronicle** | A local-first engineering journal that explains why AI coding agents changed files and performs an end-of-task review. | TypeScript, Git, local models, structured logs |
+
+---
+
+## Technical range
+
+| Area | Tools |
+|---|---|
+| **Frontend** | React, TypeScript, JavaScript, Vue, React Native, HTML, CSS, Bootstrap |
+| **Backend** | PHP, Laravel, Java, Node.js, C#, ASP.NET MVC, REST APIs |
+| **Data** | MySQL, PostgreSQL, SQL Server, Oracle, pgvector |
+| **AI & ML** | Python, LLM APIs, RAG, embeddings, reinforcement learning, AWS SageMaker |
+| **Delivery** | AWS, Microsoft Azure, Docker, Git, Linux, CI/CD |
+
+---
+
+## Experience snapshot
+
+**Sr Full Stack Developer · SFI Group Ltd · Toronto**  
+Owning full-stack delivery for business-critical operations software used across field, warehouse, payroll, and finance workflows.
+
+**PHP Developer · Enlacecode Pvt Ltd · 2023**  
+Optimized production applications, SQL queries, integrations, reporting, and user experience.
+
+**Software Developer · Iworld Pvt Ltd · 2020–2023**  
+Built web and desktop applications using ASP.NET MVC, C#, Windows Forms, and SQL Server.
+
+---
+
+## Let’s talk
+
+I’m interested in software engineering, PHP/Laravel, full-stack, applied AI, and technical product roles across Toronto or remote in Canada.
+
+- Portfolio: [ghanshyamsoni.dev](https://ghanshyamsoni.dev)
+- LinkedIn: [linkedin.com/in/ghanshyamsoni](https://www.linkedin.com/in/ghanshyamsoni)
+- Email: [Ghanshyamsoni682@gmail.com](mailto:contact@ghanshyamsoni.dev)
+
