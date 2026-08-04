@@ -18,7 +18,7 @@ Toronto, Canada · Open to software engineering and applied AI opportunities
 
 ## What I build
 
-I’m a software engineer with **5+ years of experience** turning operational complexity into reliable software. My foundation is full-stack engineering—data models, APIs, business workflows, interfaces, deployment, and production support.
+I’m a software engineer with **5+ years of experience** turning operational complexity into reliable software. My foundation is full-stack engineering-data models, APIs, business workflows, interfaces, deployment, and production support.
 
 Lately, I’ve been adding a second layer: **applied AI and machine learning** that helps people find answers, automate decisions, and work with complex information more effectively.
 
@@ -60,7 +60,7 @@ An autonomous racing model trained with reinforcement learning on AWS SageMaker.
 
 ## Concepts I’m building next
 
-> These are planned builds, included to show the problems I want to explore—not completed projects.
+> These are planned builds, included to show the problems I want to explore-not completed projects.
 
 | Concept | What it explores | Intended stack |
 |---|---|---|
