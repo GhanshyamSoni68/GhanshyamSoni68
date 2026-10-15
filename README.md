@@ -101,5 +101,5 @@ I’m interested in software engineering, PHP/Laravel, full-stack, applied AI, a
 
 - Portfolio: [ghanshyamsoni.dev](https://ghanshyamsoni.dev)
 - LinkedIn: [linkedin.com/in/ghanshyamsoni](https://www.linkedin.com/in/ghanshyamsoni)
-- Email: [Ghanshyamsoni682@gmail.com](mailto:contact@ghanshyamsoni.dev)
+- Email: [Contact@ghanshyamsoni.dev](mailto:contact@ghanshyamsoni.dev)
 
